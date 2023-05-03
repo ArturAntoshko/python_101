@@ -6,7 +6,7 @@ This repository contains problems solved by using standard Python.
 
 <details>
 <summary>
-<b>Nearest zero (<a href="task_1.py">if-else/task_1.py</a>)</b>
+<b>Task 1 (<a href="task_1.py">if-else/task_1.py</a>)</b>
 </summary>
 
 #### Problem
