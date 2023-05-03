@@ -49,6 +49,7 @@ This repository contains problems solved by using standard Python.
 </td>
   </tr>
 </tbody></table>
+</details>
 
 
 
