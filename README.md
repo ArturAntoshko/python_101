@@ -140,7 +140,7 @@ eight<br>
 
 <details>
 <summary>
-<b>Task 4 (<a href="task_4.py">if-else/task_4.py</a>)</b>
+<b>Определение скидки в кинотеатре (<a href="task_4.py">if-else/task_4.py</a>)</b>
 </summary>
 
 #### Problem
@@ -152,3 +152,28 @@ eight<br>
 3. Пенсионеры (от 65 лет и старше) получают скидку 50%.
 
 #### Input format
+На вход поступает целое число, обозначающее возраст посетителя.
+
+#### Output format
+Программа выводит размер скидки в процентах.
+
+#### Example
+<table><tbody>
+  <tr>
+    <td><b>Input</b></td>
+    <td><b>Output</b></td>
+  </tr>
+  <tr>
+    <td valign='top'>
+14<br>
+20<br>
+70<br>
+</td>
+    <td valign='top'>
+40%<br>
+25%<br>
+50%<br>
+</td>
+  </tr>
+</tbody></table>
+</details>
