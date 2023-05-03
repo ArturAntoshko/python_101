@@ -3,11 +3,7 @@ Python Problems
 This repository contains problems solved by using standard Python.
 
 ---
- 
-<details>
-<summary>
-<b>IF-ELSE tasks</b>
-
+## IF-ELSE tasks
 <details>
 <summary>
 <b>Task 1 (<a href="task_1.py">if-else/task_1.py</a>)</b>
@@ -62,4 +58,3 @@ This repository contains problems solved by using standard Python.
 3. Напишите программу, которая запрашивает у пользователя три числа и выводит на экран наибольшее из них. Пользователь гарантированно вводит 3 разных числа.
 
 4. Напишите программу для игры в "Камень-ножницы-бумага" между пользователем и компьютером. Пользователь должен выбрать один из трех вариантов (камень, ножницы или бумага), а компьютер должен случайным образом выбрать свой вариант. После этого программа должна определить победителя и вывести сообщение о результате игры.
-</summary>
