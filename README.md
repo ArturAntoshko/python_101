@@ -27,14 +27,28 @@ This repository contains problems solved by using standard Python.
   <tr>
     <td valign='top'>
 5<br>
-
 </td>
-  <td valign='top'>
+    <td valign='top'>
 вернитесь через 13 лет<br>
 </td>
   </tr>
+  <tr>
+    <td valign='top'>
+18<br>
+</td>
+    <td valign='top'>
+вы можете водить машину<br>
+</td>
+  </tr>
+  <tr>
+    <td valign='top'>
+105<br>
+</td>
+    <td valign='top'>
+вы не можете водить машину<br>
+</td>
+  </tr>
 </tbody></table>
-</details>
 
 2. Напишите программу, которая принимает на вход число от 1 до 10 и выводит на экран его название на английском языке. Если число не входит в этот диапазон, то программа должна вывести сообщение об ошибке.
 
