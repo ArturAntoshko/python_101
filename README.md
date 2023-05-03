@@ -7,11 +7,12 @@ This repository contains problems solved by using standard Python.
 ## IF-ELSE tasks
 <details>
 <summary>
-<b>Task 1 (<a href="task_1.py">if-else/task_1.py</a>)</b>
+<b>Driver's License Eligibility (<a href="task_1.py">if-else/task_1.py</a>)</b>
 </summary>
 
 #### Problem
-Напиши программу на Python, которая попросит пользователя ввести свой возраст. Если возраст равен или больше 18 лет, программа должна вывести сообщение "Вы можете получить права на машину!". Если возраст меньше 8 лет, программа должна вывести сообщение "Вы еще не можете получить права. Приходите, когда исполнится 18 лет."
+Write a Python program that asks the user to input their age. If the age is equal to or greater than 18, the program should display the message "You can get a driver's license!". If the age is less than 8, the program should display the message "You cannot get a driver's license yet. Come back when you turn 18."
+
 
 #### Input format
 На вход поступает любое целое число, обозначающее возраст кандидата в водители.
@@ -56,11 +57,11 @@ This repository contains problems solved by using standard Python.
 
 <details>
 <summary>
-<b>Task 2 (<a href="task_2.py">if-else/task_2.py</a>)</b>
+<b>Number to English Word (<a href="task_2.py">if-else/task_2.py</a>)</b>
 </summary>
 
 #### Problem
-Напишите программу, которая принимает на вход число от 1 до 10 и выводит на экран его название на английском языке. Если число не входит в этот диапазон, то программа должна вывести сообщение об ошибке.
+Write a program that takes an input number from 1 to 10 and displays its English word representation. If the number is not within this range, the program should display an error message.
 
 #### Input format
 На вход поступает любое целое число в диапазоне от 1 до 10.
@@ -105,11 +106,12 @@ eight<br>
 
 <details>
 <summary>
-<b>Task 3 (<a href="task_3.py">if-else/task_3.py</a>)</b>
+<b>Largest of Three Numbers (<a href="task_3.py">if-else/task_3.py</a>)</b>
 </summary>
 
 #### Problem
-Напишите программу, которая запрашивает у пользователя три числа и выводит на экран наибольшее из них. Пользователь гарантированно вводит 3 разных числа.
+Write a program that asks the user to input three different numbers and displays the largest of them. The user is guaranteed to enter three distinct numbers.
+
 
 #### Input format
 Три целых числа
@@ -141,16 +143,16 @@ eight<br>
 
 <details>
 <summary>
-<b>Определение скидки в кинотеатре (<a href="task_4.py">if-else/task_4.py</a>)</b>
+<b>Movie Ticket Discount Calculator (<a href="task_4.py">if-else/task_4.py</a>)</b>
 </summary>
 
 #### Problem
-В каком-то городе кинотеатр предлагает различные скидки для школьников, студентов и пенсионеров. Напишите программу, которая определит скидку на билет для посетителя в зависимости от его возраста.
-Скидки в кинотеатре:
+In a certain city, a movie theater offers various discounts for schoolchildren, students, and seniors. Write a program that determines the discount on a ticket for a visitor based on their age. The discounts at the movie theater are as follows:
 
-1. Школьники (от 7 до 17 лет включительно) получают скидку 40%.
-2. Студенты (от 18 до 24 лет включительно) получают скидку 25%.
-3. Пенсионеры (от 65 лет и старше) получают скидку 50%.
+1. Schoolchildren (from 7 to 17 years old, inclusive) get a 40% discount.
+2. Students (from 18 to 24 years old, inclusive) get a 25% discount.
+3. Seniors (65 years old and older) get a 50% discount.
+
 
 #### Input format
 На вход поступает целое число, обозначающее возраст посетителя.
