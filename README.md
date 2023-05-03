@@ -166,12 +166,24 @@ eight<br>
   <tr>
     <td valign='top'>
 14<br>
-20<br>
-70<br>
 </td>
     <td valign='top'>
 40%<br>
+</td>
+  </tr>
+  <tr>
+    <td valign='top'>
+20<br>
+</td>
+    <td valign='top'>
 25%<br>
+</td>
+  </tr>
+  <tr>
+    <td valign='top'>
+70<br>
+</td>
+    <td valign='top'>
 50%<br>
 </td>
   </tr>
